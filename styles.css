@@ -37,7 +37,7 @@ main {
 }
 
 h1 {
-  color: #333;
+  color: #555;
 }
 
 p {
@@ -49,5 +49,10 @@ img {
   height: auto;
   display: block;
   margin: 20px auto;
+}
+
+.store-image {
+    width: 25px;
+    height: 25px;
 }
 
